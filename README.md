@@ -59,3 +59,12 @@ Methodology*. 2013; **13**(1):1. [freely available [here](http://www.ag-myresear
 Armstrong, B. Models for the relationship between ambient temperature and
 daily mortality. *Epidemiology*. 2006, **17**(6):624-31. [available
 [here](http://www.ncbi.nlm.nih.gov/pubmed/17028505)].
+
+### More reading on DLNM's, including tutorials and helpful examples
+
+Eric Scott's [DLNM Blog Posts](https://ericrscott.com/blog.html#category=DLNMs)
+
+
+### Papers using DLNMs for ecological analysis 
+
+Scott, E. R., Uriarte, M., & Bruna, E. M. (2022). Delayed effects of climate on vital rates lead to demographic divergence in Amazonian forest fragments. Global Change Biology, 28, 463–479. https://doi.org/10.1111/gcb.15900
